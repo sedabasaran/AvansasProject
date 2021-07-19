@@ -29,16 +29,24 @@
                     	<th>Last Name</th>
                 		<th>Birth Date</th>
                     	<th>Phone Number</th>
+						<th>Roles</th>
+						<th> </th>
                 	</tr>
             	</thead>
             	<tbody>
                 	<tr th:each="user: ${listUsers}">
                     	<td th:text="${user.id}">User ID</td>
                     	<td th:text="${user.email}">E-mail</td>
-                    	<td th:text="${user.firstName}">First Name</td>
-                    	<td th:text="${user.lastName}">Last Name</td>
- 						<td th:text="${user.birthDate}">Birth Date</td>
-                    	<td th:text="${user.phoneNumber}">Phone Number</td>
+                    	<td th:text="${user.firstName}">AD</td>
+                    	<td th:text="${user.lastName}">SOYAD</td>
+ 						<td th:text="${user.birthDate}">DOĞUM TARİHİ</td>
+                    	<td th:text="${user.phoneNumber}">TELEFON NO</td>
+                    	<td th:text="${user.roles}">ROL NO</td>
+						<td>
+							<a th:href="@{'/users/edit/' + ${user.id}}">GÜNCELLE</a>
+                    		<a th:href="@{'/users/delete/'+ ${user.id}}">SİL</a>
+							
+						</td>
                 	</tr>
             	</tbody>
         	</table>
