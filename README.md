@@ -66,7 +66,7 @@
 - KULLANICI SİLİNDİKTEN SONRA GÖSTERİLEN KULLANICI LİSTELEME SAYFASI![Ekran Resmi 2021-07-19 16 08 23](https://user-images.githubusercontent.com/58148544/126169750-4616eb92-4f8b-49d3-8452-d28d57968f99.png)
 
 - KULLANICI SİLİNDİKTEN SONRA DATABASE SAYFASI! -  Kullanıcıların şifreleri veritabanına BCryptPasswordEncoder kullanarak şifrelenmiştir.
-- [Uploading Ekran Resmi 2021-07-19 16.01.24.png…]()
+![Ekran Resmi 2021-07-19 16 01 24](https://user-images.githubusercontent.com/58148544/126171342-5641a754-9cf3-4d57-9f08-3d50cbdd106d.png)
 
 
 
