@@ -12,7 +12,7 @@
 - Build Tool ve bağımlıkları yönetmek için Maven
 - Valida
 
-# Bilgisayara indirilen software proglamlar
+# Bilgisayara indirilen software programlar
 - Java Development Kit (JDK)
 - Spring Tool Suite IDE (STS)
 - MySQL Community server and MySQL Workbench
