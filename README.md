@@ -4,7 +4,7 @@
 
 - Spring Web MVC 
 - Spring Data JPA-Hibernate ORM framework
-- Sayfalara erişim yetkisi atamakta ve güvenlik sağlamakta Spring Security(authentication, login and logout)
+- Sayfalara erişim yetkisi atamakta ve güvenlik sağlamakta Spring Security(authentication/login/logout)
 - Thymeleaf as template engine
 - Kullanıcı arayüzü için HTML 5 and Bootstrap 4 
 - Unit Test için JUnit 5 and AssertJ
@@ -64,6 +64,9 @@
 - ![Ekran Resmi 2021-07-19 16 07 50](https://user-images.githubusercontent.com/58148544/126169642-d92e6296-47d9-4ba3-9255-5182b893b319.png)
 
 - KULLANICI SİLİNDİKTEN SONRA GÖSTERİLEN KULLANICI LİSTELEME SAYFASI![Ekran Resmi 2021-07-19 16 08 23](https://user-images.githubusercontent.com/58148544/126169750-4616eb92-4f8b-49d3-8452-d28d57968f99.png)
+
+- KULLANICI SİLİNDİKTEN SONRA DATABASE SAYFASI! -  Kullanıcıların şifreleri veritabanına BCryptPasswordEncoder kullanarak şifrelenmiştir.
+- [Uploading Ekran Resmi 2021-07-19 16.01.24.png…]()
 
 
 
