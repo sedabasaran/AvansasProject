@@ -10,7 +10,6 @@
 - Unit Test için JUnit 5 and AssertJ
 - MySQL database
 - Build Tool ve bağımlıkları yönetmek için Maven
-- Valida
 
 # Bilgisayara indirilen software programlar
 - Java Development Kit (JDK)
